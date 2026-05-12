@@ -68,3 +68,15 @@ It provides a graphical user interface (GUI) to send HTTP requests and receive r
 
 [Postman Official Website](https://www.postman.com/)
 
+# HTTP Methods in Postman
+
+| Method | Purpose |
+|---|---|
+| GET | Retrieve data |
+| POST | Send new data |
+| PUT | Update existing data |
+| DELETE | Remove data |
+| PATCH | Partially update data |
+
+---
+
