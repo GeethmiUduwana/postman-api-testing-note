@@ -54,6 +54,13 @@ It provides a graphical user interface (GUI) to send HTTP requests and receive r
 - Team members can share collections and environments
 
 ---
+2. Download the application
+3. Install it on:
+   - Windows
+   - Linux
+   - macOS
+
+---
 
 # Installation of Postman
 
