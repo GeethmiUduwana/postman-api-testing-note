@@ -108,3 +108,12 @@ Stores variables for different systems.
 
 # Creating a GET Request
 
+## Steps
+
+1. Open Postman
+2. Select **GET**
+3. Enter API URL
+4. Click **Send**
+5. View the response
+
+
