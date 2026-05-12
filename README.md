@@ -115,5 +115,48 @@ Stores variables for different systems.
 3. Enter API URL
 4. Click **Send**
 5. View the response
+### Example API
+
+```bash
+https://jsonplaceholder.typicode.com/posts
+```
+
+---
+
+# Creating a POST Request
+
+## Steps
+
+1. Select **POST**
+2. Enter API URL
+3. Go to **Body**
+4. Select **raw → JSON**
+5. Enter JSON data
+6. Click **Send**
+
+### Example JSON
+
+```json
+{
+  "title": "Test Post",
+  "body": "Hello World",
+  "userId": 1
+}
+```
+
+---
+
+# Status Codes
+
+| Code | Meaning |
+|---|---|
+| 200 | OK |
+| 201 | Created |
+| 400 | Bad Request |
+| 401 | Unauthorized |
+| 404 | Not Found |
+| 500 | Internal Server Error |
+
+---
 
 
