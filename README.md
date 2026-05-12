@@ -40,3 +40,12 @@ It provides a graphical user interface (GUI) to send HTTP requests and receive r
   - Usernames
   - Passwords
 
+## 6. Automation Testing
+
+- Write test scripts using JavaScript
+- Automate API validation
+
+## 7. API Documentation
+
+- Generate and share API documentation
+
