@@ -214,4 +214,47 @@ pm.test("Status code is 200", function () {
 ```
 
 ---
+# Collections in Postman
+
+Collections are used to:
+- Organize requests
+- Share APIs
+- Run automated tests
+
+Benefits:
+- Easy maintenance
+- Reusability
+- Team collaboration
+
+---
+
+# Advantages of Postman
+
+- Easy to use
+- Supports automation
+- Fast API testing
+- Good collaboration features
+- Supports multiple environments
+- Helps in debugging APIs
+
+---
+
+# Limitations of Postman
+
+- Large collections may become slow
+- Requires internet for some cloud features
+- Advanced automation may require coding knowledge
+
+---
+
+# Common Uses of Postman
+
+- API development
+- API testing
+- Backend debugging
+- Automation testing
+- API documentation
+- Team collaboration
+
+---
 
