@@ -27,4 +27,16 @@ It provides a graphical user interface (GUI) to send HTTP requests and receive r
 - PUT
 - DELETE
 - PATCH
+## 4. Collections
+
+- Save API requests in groups
+- Reuse requests easily
+
+## 5. Environment Variables
+
+- Store values like:
+  - URLs
+  - Tokens
+  - Usernames
+  - Passwords
 
