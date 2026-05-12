@@ -49,3 +49,15 @@ It provides a graphical user interface (GUI) to send HTTP requests and receive r
 
 - Generate and share API documentation
 
+## 8. Collaboration
+
+- Team members can share collections and environments
+
+---
+
+# Installation of Postman
+
+1. Visit the official website:
+
+[Postman Official Website](https://www.postman.com/)
+
