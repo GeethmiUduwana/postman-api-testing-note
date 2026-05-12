@@ -1,2 +1,9 @@
-# postman-api-testing-note
-A beginner-friendly guide to learning API testing using Postman. This repository includes Postman basics, HTTP methods, API request examples, collections, environment variables, automation testing scripts, and best practices for REST API testing.
+# Postman Notes
+
+## Introduction to Postman
+
+Postman is a popular API testing and development tool used by developers to design, test, debug, and document APIs easily.
+
+It provides a graphical user interface (GUI) to send HTTP requests and receive responses without writing complex code.
+
+---
