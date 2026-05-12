@@ -158,5 +158,60 @@ https://jsonplaceholder.typicode.com/posts
 | 500 | Internal Server Error |
 
 ---
+# Headers in Postman
 
+Headers provide additional information about the request.
+
+### Example
+
+```bash
+Content-Type: application/json
+Authorization: Bearer token
+```
+
+---
+
+# Authorization Types
+
+| Type | Description |
+|---|---|
+| Basic Auth | Username and password |
+| Bearer Token | Token-based authentication |
+| API Key | Unique access key |
+| OAuth 2.0 | Secure authentication framework |
+
+---
+
+# Environment Variables
+
+Environment variables help avoid repeating values.
+
+### Example
+
+| Variable | Value |
+|---|---|
+| base_url | https://api.example.com |
+| token | abc123 |
+
+Usage:
+
+```bash
+{{base_url}}/users
+```
+
+---
+
+# Writing Tests in Postman
+
+Postman supports JavaScript for testing.
+
+### Example Test Script
+
+```javascript
+pm.test("Status code is 200", function () {
+    pm.response.to.have.status(200);
+});
+```
+
+---
 
