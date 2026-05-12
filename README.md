@@ -79,4 +79,32 @@ It provides a graphical user interface (GUI) to send HTTP requests and receive r
 | PATCH | Partially update data |
 
 ---
+# Components of Postman Interface
+
+## 1. Request Section
+
+Used to:
+- Enter API URL
+- Select HTTP method
+- Add headers and body
+
+## 2. Response Section
+
+Displays:
+- Status code
+- Response body
+- Headers
+- Response time
+
+## 3. Collections
+
+Stores saved requests.
+
+## 4. Environment
+
+Stores variables for different systems.
+
+---
+
+# Creating a GET Request
 
