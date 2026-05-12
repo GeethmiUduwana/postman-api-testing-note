@@ -7,3 +7,24 @@ Postman is a popular API testing and development tool used by developers to desi
 It provides a graphical user interface (GUI) to send HTTP requests and receive responses without writing complex code.
 
 ---
+# Features of Postman
+
+## 1. API Testing
+
+- Send requests to APIs
+- Check API responses
+- Validate status codes and data
+
+## 2. User-Friendly Interface
+
+- Easy GUI
+- No need to use command line tools
+
+## 3. Supports Multiple HTTP Methods
+
+- GET
+- POST
+- PUT
+- DELETE
+- PATCH
+
